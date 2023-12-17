@@ -1,5 +1,4 @@
 #include <iostream>
-#include <bits/stdc++.h>
 
 void sort (int array[], int size);
 
